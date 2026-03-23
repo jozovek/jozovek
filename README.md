@@ -16,9 +16,9 @@ I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — an
 |--------|--------|
 | **$50M+** | Fortune 500 contracts — managed learning design delivery across GA's enterprise portfolio |
 | **80%** | SME cost reduction via AI proof-of-concept (secured executive investment) |
-| **100%** | Internal team adoption of AI development methods after workshop series I designed and led at GA |
+| **100%** | Internal team adoption of AI development methods after workshop series I co-designed and led at GA |
 | **3–4 hrs** | Saved per person per week within 4 weeks |
-| **80** | Non-technical employees guided through hands-on AI agent building in a single day |
+| **80** | Non-technical employees guided through hands-on AI agent building in a half day |
 | **35+** | Modular AI courses designed across 6 job functions |
 
 ---
