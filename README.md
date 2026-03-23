@@ -83,7 +83,7 @@ I also volunteer with **PhillyAI Connect**, helping shape programming that makes
 
 If you're a senior leader who's frustrated that your team isn't getting ROI from AI — and you're ready to actually fix it — I'd love to hear from you.
 
-→ [Book a call](#) · [Connect on LinkedIn](#) · [MVP Club](#)
+→ [Book a call](https://calendly.com/jozovek/30min) · [Connect on LinkedIn](https://www.linkedin.com/in/jillozovek/) · [MVP Club](https://www.mvpclub.ai)
 
 ---
 
