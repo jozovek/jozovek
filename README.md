@@ -54,7 +54,7 @@ Google · Adobe · McKinsey · Tag Heuer · Clarins
 | 📈 [Dual Enroll Engagement](https://github.com/jozovek/dual-enroll-case-study) | Behavior change case study — from AI skeptics to 3-4 hrs/week saved in 4 weeks |
 | 🛠️ [MVP Club Ops Tool](https://github.com/jozovek/mvpclub-ops-tool) | Designing and building an AI-powered business ops system for a 130+ member community |
 | 📚 [AI Prompt Library](https://github.com/jozovek/ai-prompt-library) | A working library of role-specific prompts for non-technical professionals |
-| 🔎 [AI Skills Self-Audit Tool](https://github.com/jozovek/ai-skills-audit) | Interactive tool for professionals to assess and package their AI skills for career visibility |
+| 👩‍💻 [Women & AI](https://github.com/jozovek/women-and-ai) | Monthly meetup series driving AI adoption for women — workshops, tools, and community |
 
 ---
 
