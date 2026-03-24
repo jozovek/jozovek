@@ -1,6 +1,4 @@
-# Hi, I'm Jill Ozovek 👋
-
-**Fractional Head of AI Adoption · Chief AI Learning Officer · Philadelphia, PA**
+<img src="banner.svg" alt="Jill Ozovek — Fractional Head of AI Adoption" width="100%" />
 
 [Book a call](https://calendly.com/jozovek/30min) · [LinkedIn](https://www.linkedin.com/in/jillozovek/) · [MVP Club](https://www.mvpclub.ai)
 
