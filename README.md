@@ -22,7 +22,7 @@ I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — an
 | **3–4 hrs** | Saved per person per week within 4 weeks |
 | **80** | Non-technical employees guided through hands-on AI agent building in a half day |
 | **$250K** | In development costs saved through agentic workflows I designed and managed |
-| **35+** | Modular AI courses designed across 6 job functions |
+| **35+** | Modular AI courses designed across 6 job functions (Learning designers developed them fully under my guidance) |
 
 ---
 
