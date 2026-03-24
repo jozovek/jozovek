@@ -19,6 +19,7 @@ I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — an
 | **100%** | Internal team adoption of AI development methods after workshop series I co-designed and led at GA |
 | **3–4 hrs** | Saved per person per week within 4 weeks |
 | **80** | Non-technical employees guided through hands-on AI agent building in a half day |
+| **$250K** | In development costs saved through agentic workflows I designed and managed |
 | **35+** | Modular AI courses designed across 6 job functions |
 
 ---
@@ -50,6 +51,7 @@ Google · Adobe · McKinsey · Tag Heuer · Clarins
 | Project | What it is |
 |---------|------------|
 | 🏛️ [General Assembly](https://github.com/jozovek/ga-case-study) | AI enablement at enterprise scale — curriculum design, internal adoption, executive POC |
+| 🤖 [Agentic Workflow Design](https://github.com/jozovek/agentic-workflow-design) | Designed and program managed GA's first production agentic AI workflows — $250K in dev costs saved |
 | 🚀 [Enterprise Hackathon](https://github.com/jozovek/enterprise-hackathon) | 80 non-technical employees, 4 hours, hands-on AI agent building — no playbook |
 | 📈 [Dual Enroll Engagement](https://github.com/jozovek/dual-enroll-case-study) | Behavior change case study — from AI skeptics to 3-4 hrs/week saved in 4 weeks |
 | 🛠️ [MVP Club Ops Tool](https://github.com/jozovek/mvpclub-ops-tool) | Designing and building an AI-powered business ops system for a 130+ member community |
