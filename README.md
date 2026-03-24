@@ -4,11 +4,11 @@
 
 [Book a call](https://calendly.com/jozovek/30min) · [LinkedIn](https://www.linkedin.com/in/jillozovek/) · [MVP Club](https://www.mvpclub.ai)
 
-Most AI initiatives fail for the same reason: organizations treat adoption as a training problem. It's not — it's a behavior change problem.
+Most AI initiatives fail for the same reason: organizations treat adoption as a training problem. It's not; it's a behavior change problem.
 
 I embed with organizations where leadership has already bought in but adoption isn't happening. Working across all three levels of the org — C-suite strategy, manager enablement, and IC behavior change — I turn AI investment into measurable productivity gains.
 
-I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — and I leave infrastructure behind that scales after I'm gone.
+I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — and I leave scalable infrastructure behind.
 
 ---
 
