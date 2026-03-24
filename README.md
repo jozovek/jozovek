@@ -16,12 +16,12 @@ I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — an
 
 | Metric | Detail |
 |--------|--------|
-| **$50M+** | Fortune 500 contracts — managed learning design delivery across GA's enterprise portfolio |
+| **$50M+** | Fortune 500 contracts — managed learning design delivery across subsets of GA's enterprise portfolio |
 | **80%** | SME cost reduction via AI proof-of-concept (secured executive investment) |
 | **100%** | Internal team adoption of AI development methods after workshop series I co-designed and led at GA |
 | **3–4 hrs** | Saved per person per week within 4 weeks |
 | **80** | Non-technical employees guided through hands-on AI agent building in a half day |
-| **$250K** | In development costs saved through agentic workflows I designed and managed |
+| **$300K** | In development costs saved in 2025 through agentic workflows I designed and managed |
 | **35+** | Modular AI courses designed across 6 job functions (Learning designers developed them fully under my guidance) |
 
 ---
@@ -57,7 +57,7 @@ Google · Adobe · McKinsey · Tag Heuer · Clarins
 | 🚀 [Enterprise Hackathon](https://github.com/jozovek/enterprise-hackathon) | Event Design & Facilitation | 80 non-technical employees, 4 hours, hands-on AI agent building — no playbook |
 | 📈 [Dual Enroll Engagement](https://github.com/jozovek/dual-enroll-case-study) | Behavior Change & Adoption | Behavior change case study — from AI skeptics to 3-4 hrs/week saved in 4 weeks |
 | 🛠️ [MVP Club Ops Tool](https://github.com/jozovek/mvpclub-ops-tool) | AI-Powered Tool Design | Designing and building an AI-powered business ops system for our member community |
-| 📚 [AI Prompt Library](https://github.com/jozovek/ai-prompt-library) | Resource Design | A working library of role-specific prompts for non-technical professionals |
+| 📚 [AI Prompt Library](https://github.com/jozovek/ai-prompt-library) | Resource Design | Co-built a working library of role-specific prompts for non-technical professionals |
 | 👩‍💻 [Women & AI](https://github.com/jozovek/women-and-ai) | Community Leadership | Monthly meetup series driving AI adoption for women — workshops, tools, and community |
 
 ---
