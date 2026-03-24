@@ -56,7 +56,7 @@ Google · Adobe · McKinsey · Tag Heuer · Clarins
 | 🤖 [Agentic Workflow Design](https://github.com/jozovek/agentic-workflow-design) | Designed and program managed GA's first production agentic AI workflows — $250K in dev costs saved |
 | 🚀 [Enterprise Hackathon](https://github.com/jozovek/enterprise-hackathon) | 80 non-technical employees, 4 hours, hands-on AI agent building — no playbook |
 | 📈 [Dual Enroll Engagement](https://github.com/jozovek/dual-enroll-case-study) | Behavior change case study — from AI skeptics to 3-4 hrs/week saved in 4 weeks |
-| 🛠️ [MVP Club Ops Tool](https://github.com/jozovek/mvpclub-ops-tool) | Designing and building an AI-powered business ops system for a 130+ member community |
+| 🛠️ [MVP Club Ops Tool](https://github.com/jozovek/mvpclub-ops-tool) | Designing and building an AI-powered business ops system for our member community |
 | 📚 [AI Prompt Library](https://github.com/jozovek/ai-prompt-library) | A working library of role-specific prompts for non-technical professionals |
 | 👩‍💻 [Women & AI](https://github.com/jozovek/women-and-ai) | Monthly meetup series driving AI adoption for women — workshops, tools, and community |
 
