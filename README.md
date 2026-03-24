@@ -50,15 +50,15 @@ Google · Adobe · McKinsey · Tag Heuer · Clarins
 
 ## 📂 Featured work
 
-| Project | What it is |
-|---------|------------|
-| 🏛️ [General Assembly](https://github.com/jozovek/ga-case-study) | AI enablement at enterprise scale — curriculum design, internal adoption, executive POC |
-| 🤖 [Agentic Workflow Design](https://github.com/jozovek/agentic-workflow-design) | Designed and program managed GA's first production agentic AI workflows — $250K in dev costs saved |
-| 🚀 [Enterprise Hackathon](https://github.com/jozovek/enterprise-hackathon) | 80 non-technical employees, 4 hours, hands-on AI agent building — no playbook |
-| 📈 [Dual Enroll Engagement](https://github.com/jozovek/dual-enroll-case-study) | Behavior change case study — from AI skeptics to 3-4 hrs/week saved in 4 weeks |
-| 🛠️ [MVP Club Ops Tool](https://github.com/jozovek/mvpclub-ops-tool) | Designing and building an AI-powered business ops system for our member community |
-| 📚 [AI Prompt Library](https://github.com/jozovek/ai-prompt-library) | A working library of role-specific prompts for non-technical professionals |
-| 👩‍💻 [Women & AI](https://github.com/jozovek/women-and-ai) | Monthly meetup series driving AI adoption for women — workshops, tools, and community |
+| Project | Capability | What it is |
+|---------|-----------|------------|
+| 🏛️ [General Assembly](https://github.com/jozovek/ga-case-study) | Enterprise Learning Design | AI enablement at enterprise scale — curriculum design, internal adoption, executive POC |
+| 🤖 [Agentic Workflow Design](https://github.com/jozovek/agentic-workflow-design) | AI Systems & Program Management | Designed and program managed GA's first production agentic AI workflows — $250K in dev costs saved |
+| 🚀 [Enterprise Hackathon](https://github.com/jozovek/enterprise-hackathon) | Event Design & Facilitation | 80 non-technical employees, 4 hours, hands-on AI agent building — no playbook |
+| 📈 [Dual Enroll Engagement](https://github.com/jozovek/dual-enroll-case-study) | Behavior Change & Adoption | Behavior change case study — from AI skeptics to 3-4 hrs/week saved in 4 weeks |
+| 🛠️ [MVP Club Ops Tool](https://github.com/jozovek/mvpclub-ops-tool) | AI-Powered Tool Design | Designing and building an AI-powered business ops system for our member community |
+| 📚 [AI Prompt Library](https://github.com/jozovek/ai-prompt-library) | Resource Design | A working library of role-specific prompts for non-technical professionals |
+| 👩‍💻 [Women & AI](https://github.com/jozovek/women-and-ai) | Community Leadership | Monthly meetup series driving AI adoption for women — workshops, tools, and community |
 
 ---
 
