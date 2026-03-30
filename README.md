@@ -4,13 +4,15 @@
 
 Most AI initiatives fail for the same reason: organizations treat adoption as a training problem. It's not; it's a behavior change problem.
 
-I embed with organizations where leadership has already bought in but adoption isn't happening. Working across all three levels of the org — C-suite strategy, manager enablement, and IC behavior change — I turn AI investment into measurable productivity gains.
+I embed with organizations where leadership has already bought in but adoption isn't happening. Working across all three levels of the org — C-suite strategy, manager enablement, and IC behavior change — I turn AI investment into measurable productivity gains beyond the tech teams to all areas of the business from HR to legal to marketing, while creating environments of mutual sharing and discovery.
+
+In my work with organizations large and small, it's proven that companies do not need to invest in dedicated headcount to jumpstart and propel their AI enablement.  Fractional AI Enablement engagement allows for a holistic evaluation and hands-on implementation of AI tools, setting businesses up with a culture where AI is second nature. Dedicated headcount can (and often does) follow this work. In addition, my clients are set up with ongoing processes to ensure a flywheel of continuous AI learning and sharing; processes that can be adopted by existing teams that last long after our engagement concludes. 
 
 I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — and I leave scalable infrastructure behind.
 
 ---
 
-## 📊 By the numbers
+## 📊 My AI Enablement Work By The Numbers
 
 | Metric | Detail |
 |--------|--------|
@@ -24,7 +26,7 @@ I'm not a workshop-and-walk-away consultant. I diagnose, build, and embed — an
 
 ---
 
-## 🔍 What I actually do
+## 🔍 What I Do For Enterprises
 
 **Diagnose** · Interview key staff, map real workflows, identify where and why adoption is stalling — not where leadership thinks it's stalling.
 
@@ -62,14 +64,12 @@ Google · Adobe · McKinsey · Tag Heuer · Clarins
 
 ## 💼 Fractional engagement
 
-I take on a small number of fractional engagements at a time.
+A limited number of fractional engagements are available; inquire for availability
+- **Structure:** 6-month commitment
+- **Pricing:** Engagements depend on myriad factors including company size and tools being used. Inquire for details.
+- **Best fit:** Organizations where a senior leader has both the budget authority and the urgency, and is done waiting for adoption to happen on its own. Could be 50 people or 500. What matters is readiness, not headcount.
 
-- **Structure:** 6-month commitment, renews quarterly
-- **Capacity:** 40 hours/month
-- **Pricing:** On request
-- **Best fit:** Organizations where a senior leader has both the budget authority and the urgency — and is done waiting for adoption to happen on its own. Could be 50 people or 500. What matters is readiness, not headcount.
-
-*Not the right fit: large enterprises with 18-month procurement cycles or organizations looking for a one-time training event.*
+*Not the right fit: Organizations looking for a one-time training event.*
 
 ---
 
@@ -83,7 +83,7 @@ I also volunteer with **PhillyAI Connect**, helping shape programming that makes
 
 ## 📬 Let's talk
 
-If you're a senior leader who's frustrated that your team isn't getting ROI from AI — and you're ready to actually fix it — I'd love to hear from you.
+If you're a senior leader who's frustrated that your team isn't getting ROI from AI — and you're ready to actually fix it — I'd love to hear from you. I've worked with executives across HR, legal, operations, communications/marketing and cross-disciplinary teams charged with promoting AI adoption in their organizations.
 
 → [Book a call](https://calendly.com/jozovek/30min) · [Connect on LinkedIn](https://www.linkedin.com/in/jillozovek/) · [MVP Club](https://www.mvpclub.ai)
 
