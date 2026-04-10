@@ -65,7 +65,7 @@ Google · Adobe · McKinsey · Tag Heuer · Clarins
 ## 💼 Fractional engagement
 
 A limited number of fractional engagements are available; inquire for availability
-- **Structure:** 6-month commitment
+- **Structure:** 3–6 month engagement
 - **Pricing:** Engagements depend on myriad factors including company size and tools being used. Inquire for details.
 - **Best fit:** Organizations where a senior leader has both the budget authority and the urgency, and is done waiting for adoption to happen on its own. Could be 50 people or 500. What matters is readiness, not headcount.
 
@@ -81,7 +81,7 @@ I also volunteer with **PhillyAI Connect**, helping shape programming that makes
 
 ---
 
-## ✍️ Writing
+## ✍️ Writing and Thought Leadership
 
 → [MVP Club Blog](https://www.mvpclub.ai/blog) · MVP Club Articles *(coming soon)* · [Personal Substack](https://substack.com/@jozovek)
 
