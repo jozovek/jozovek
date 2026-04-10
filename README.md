@@ -81,6 +81,12 @@ I also volunteer with **PhillyAI Connect**, helping shape programming that makes
 
 ---
 
+## ✍️ Writing
+
+→ [MVP Club Blog](https://www.mvpclub.ai/blog) · MVP Club Articles *(coming soon)* · [Personal Substack](https://substack.com/@jozovek)
+
+---
+
 ## 📬 Let's talk
 
 If you're a senior leader who's frustrated that your team isn't getting ROI from AI — and you're ready to actually fix it — I'd love to hear from you. I've worked with executives across HR, legal, operations, communications/marketing and cross-disciplinary teams charged with promoting AI adoption in their organizations.
