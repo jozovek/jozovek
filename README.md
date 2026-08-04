@@ -83,7 +83,7 @@ I also volunteer with **PhillyAI Connect**, helping shape programming that makes
 
 ## ✍️ Writing and Thought Leadership
 
-→  · [MVP Club Articles]([url](https://www.mvpclub.ai/learn)) ** ·
+→  · [MVP Club Articles]: https://www.mvpclub.ai/learn)) ** ·
 
 ---
 
